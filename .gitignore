@@ -5,6 +5,4 @@ tags
 .ropeproject
 .bundle
 .idea/
-monitor.ini
-monitors.ini
 monitor.json
